@@ -153,7 +153,7 @@ EOF  all  create  destroy  help  quit  show  update
 ## :beetle: Bugs :beetle:
 No known bugs at this time. 
 
-## :blac_nib: Authors :black_nib:
+## :black_nib: Authors :black_nib:
 Nikki Alderman - [Github](https://github.com/NikkiMerena)  
 Julia Bullard - [Github](https://github.com/Julia-5534)
 
